@@ -1,0 +1,7 @@
+C:\Users\pooja\source\repos\IcomaparableIcomparer\IcomaparableIcomparer\bin\Debug\IcomaparableIcomparer.exe.config
+C:\Users\pooja\source\repos\IcomaparableIcomparer\IcomaparableIcomparer\bin\Debug\IcomaparableIcomparer.exe
+C:\Users\pooja\source\repos\IcomaparableIcomparer\IcomaparableIcomparer\bin\Debug\IcomaparableIcomparer.pdb
+C:\Users\pooja\source\repos\IcomaparableIcomparer\IcomaparableIcomparer\obj\Debug\IcomaparableIcomparer.csprojAssemblyReference.cache
+C:\Users\pooja\source\repos\IcomaparableIcomparer\IcomaparableIcomparer\obj\Debug\IcomaparableIcomparer.csproj.CoreCompileInputs.cache
+C:\Users\pooja\source\repos\IcomaparableIcomparer\IcomaparableIcomparer\obj\Debug\IcomaparableIcomparer.exe
+C:\Users\pooja\source\repos\IcomaparableIcomparer\IcomaparableIcomparer\obj\Debug\IcomaparableIcomparer.pdb
